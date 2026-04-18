@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ctor_PersivalJsonFileSource",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ctor_PersivalJsonFileSource",
+  "parent":{
+    "name":"Data",
+    "path":"folders/_Packages/Alphish/Persival/Data.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
