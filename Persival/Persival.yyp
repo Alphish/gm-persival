@@ -31,6 +31,8 @@
     {"id":{"name":"ctor_PersivalException","path":"scripts/ctor_PersivalException/ctor_PersivalException.yy",},},
     {"id":{"name":"ctor_PersivalFixedIndexer","path":"scripts/ctor_PersivalFixedIndexer/ctor_PersivalFixedIndexer.yy",},},
     {"id":{"name":"ctor_PersivalIndexer","path":"scripts/ctor_PersivalIndexer/ctor_PersivalIndexer.yy",},},
+    {"id":{"name":"ctor_PersivalStore","path":"scripts/ctor_PersivalStore/ctor_PersivalStore.yy",},},
+    {"id":{"name":"ctor_PersivalStoreBuilder","path":"scripts/ctor_PersivalStoreBuilder/ctor_PersivalStoreBuilder.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
