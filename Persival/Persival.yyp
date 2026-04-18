@@ -36,6 +36,7 @@
     {"id":{"name":"ctor_PersivalIndexer","path":"scripts/ctor_PersivalIndexer/ctor_PersivalIndexer.yy",},},
     {"id":{"name":"ctor_PersivalStore","path":"scripts/ctor_PersivalStore/ctor_PersivalStore.yy",},},
     {"id":{"name":"ctor_PersivalStoreBuilder","path":"scripts/ctor_PersivalStoreBuilder/ctor_PersivalStoreBuilder.yy",},},
+    {"id":{"name":"ctor_PersivalTextFileSource","path":"scripts/ctor_PersivalTextFileSource/ctor_PersivalTextFileSource.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
