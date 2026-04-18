@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ctor_PersivalStoreBuilder",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ctor_PersivalStoreBuilder",
+  "parent":{
+    "name":"Persival",
+    "path":"folders/_Packages/Alphish/Persival.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
