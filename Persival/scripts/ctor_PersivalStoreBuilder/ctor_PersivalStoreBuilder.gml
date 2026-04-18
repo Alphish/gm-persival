@@ -7,6 +7,11 @@ function PersivalStoreBuilder() constructor {
         return self;
     }
     
+    static with_text_file_source = function() {
+        data_source = new PersivalTextFileSource();
+        return self;
+    }
+    
     static with_fixed_location = function(_location) {
         indexer = new PersivalFixedIndexer(_location);
         return self;
