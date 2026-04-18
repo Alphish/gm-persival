@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ctor_PersivalIndexer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ctor_PersivalIndexer",
+  "parent":{
+    "name":"Indexing",
+    "path":"folders/_Packages/Alphish/Persival/Indexing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
