@@ -15,6 +15,7 @@
     {"$GMFolder":"","%Name":"Persival","folderPath":"folders/_Packages/Alphish/Persival.yy","name":"Persival","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Data","folderPath":"folders/_Packages/Alphish/Persival/Data.yy","name":"Data","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Indexing","folderPath":"folders/_Packages/Alphish/Persival/Indexing.yy","name":"Indexing","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Demo","folderPath":"folders/Demo.yy","name":"Demo","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
@@ -25,7 +26,9 @@
   },
   "name":"Persival",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"fnt_Number","path":"fonts/fnt_Number/fnt_Number.yy",},},
+    {"id":{"name":"ctrl_Demo","path":"objects/ctrl_Demo/ctrl_Demo.yy",},},
+    {"id":{"name":"rm_Demo","path":"rooms/rm_Demo/rm_Demo.yy",},},
     {"id":{"name":"ctor_PersivalBufferFileSource","path":"scripts/ctor_PersivalBufferFileSource/ctor_PersivalBufferFileSource.yy",},},
     {"id":{"name":"ctor_PersivalDataSource","path":"scripts/ctor_PersivalDataSource/ctor_PersivalDataSource.yy",},},
     {"id":{"name":"ctor_PersivalException","path":"scripts/ctor_PersivalException/ctor_PersivalException.yy",},},
@@ -37,7 +40,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_Demo","path":"rooms/rm_Demo/rm_Demo.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
