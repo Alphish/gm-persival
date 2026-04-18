@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"fnt_Number",
+  "%Name":"fnt_MainText",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":150,
@@ -238,7 +238,7 @@
   "last":0,
   "lineHeight":184,
   "maintainGms1Font":false,
-  "name":"fnt_Number",
+  "name":"fnt_MainText",
   "parent":{
     "name":"Demo",
     "path":"folders/Demo.yy",
