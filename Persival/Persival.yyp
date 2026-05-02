@@ -32,6 +32,7 @@
   "resources":[
     {"id":{"name":"fnt_Button","path":"fonts/fnt_Button/fnt_Button.yy",},},
     {"id":{"name":"fnt_MainText","path":"fonts/fnt_MainText/fnt_MainText.yy",},},
+    {"id":{"name":"ctrl_Home","path":"objects/ctrl_Home/ctrl_Home.yy",},},
     {"id":{"name":"ctrl_NumberDemo","path":"objects/ctrl_NumberDemo/ctrl_NumberDemo.yy",},},
     {"id":{"name":"ctrl_PositionDemo","path":"objects/ctrl_PositionDemo/ctrl_PositionDemo.yy",},},
     {"id":{"name":"ctrl_TextDemo","path":"objects/ctrl_TextDemo/ctrl_TextDemo.yy",},},
@@ -52,6 +53,7 @@
     {"id":{"name":"ctor_PersivalStore","path":"scripts/ctor_PersivalStore/ctor_PersivalStore.yy",},},
     {"id":{"name":"ctor_PersivalStoreBuilder","path":"scripts/ctor_PersivalStoreBuilder/ctor_PersivalStoreBuilder.yy",},},
     {"id":{"name":"ctor_PersivalTextFileSource","path":"scripts/ctor_PersivalTextFileSource/ctor_PersivalTextFileSource.yy",},},
+    {"id":{"name":"data_PositionStore","path":"scripts/data_PositionStore/data_PositionStore.yy",},},
     {"id":{"name":"spr_Button","path":"sprites/spr_Button/spr_Button.yy",},},
     {"id":{"name":"spr_PositionWalker","path":"sprites/spr_PositionWalker/spr_PositionWalker.yy",},},
   ],

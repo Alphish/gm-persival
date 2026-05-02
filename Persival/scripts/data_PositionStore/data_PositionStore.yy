@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"data_PositionStore",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"data_PositionStore",
+  "parent":{
+    "name":"Position",
+    "path":"folders/Demo/Position.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
