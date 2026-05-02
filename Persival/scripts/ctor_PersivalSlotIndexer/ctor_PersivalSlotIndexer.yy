@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ctor_PersivalSlotIndexer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ctor_PersivalSlotIndexer",
+  "parent":{
+    "name":"Indexing",
+    "path":"folders/_Packages/Alphish/Persival/Indexing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
